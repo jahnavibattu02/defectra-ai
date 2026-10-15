@@ -1,0 +1,8 @@
+{
+  "autoencoder_threshold": 0.0006492799759143962,
+  "resnet_threshold": 6.149450778961182,
+  "image_size": 256,
+  "category": "bottle",
+  "threshold_method": "95th percentile of normal validation scores",
+  "notes": "Thresholds exported from the existing notebook; not retuned on test data."
+}
